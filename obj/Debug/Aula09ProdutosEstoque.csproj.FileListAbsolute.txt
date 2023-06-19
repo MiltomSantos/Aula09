@@ -1,0 +1,7 @@
+C:\Users\miltom.snascimento\source\repos\Aula09ProdutosEstoque\Aula09ProdutosEstoque\bin\Debug\Aula09ProdutosEstoque.exe.config
+C:\Users\miltom.snascimento\source\repos\Aula09ProdutosEstoque\Aula09ProdutosEstoque\bin\Debug\Aula09ProdutosEstoque.exe
+C:\Users\miltom.snascimento\source\repos\Aula09ProdutosEstoque\Aula09ProdutosEstoque\bin\Debug\Aula09ProdutosEstoque.pdb
+C:\Users\miltom.snascimento\source\repos\Aula09ProdutosEstoque\Aula09ProdutosEstoque\obj\Debug\Aula09ProdutosEstoque.csproj.AssemblyReference.cache
+C:\Users\miltom.snascimento\source\repos\Aula09ProdutosEstoque\Aula09ProdutosEstoque\obj\Debug\Aula09ProdutosEstoque.csproj.CoreCompileInputs.cache
+C:\Users\miltom.snascimento\source\repos\Aula09ProdutosEstoque\Aula09ProdutosEstoque\obj\Debug\Aula09ProdutosEstoque.exe
+C:\Users\miltom.snascimento\source\repos\Aula09ProdutosEstoque\Aula09ProdutosEstoque\obj\Debug\Aula09ProdutosEstoque.pdb
